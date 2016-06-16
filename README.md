@@ -4,7 +4,9 @@ Progetto-ASW-secondaConsegna
 Repository progetto Architetture Software.
 
 All'interno della repository sono presenti due file:
+
 progettoGameShop.zip che contiene il codice dell'intero progetto REST. 
+
 consegnaDefinitiva.rar che contiene i dockerFile necessari per la creazione dei contenitori docker.
 
 Preparazione:
