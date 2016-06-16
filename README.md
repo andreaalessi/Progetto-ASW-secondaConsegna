@@ -7,7 +7,7 @@ Preparazione:
 
 1.Posizionarsi nella cartella postgres ed effettuare la build dell'immagine (Es: "docker build -t postgres-img .")
 
-2.Posizionarsi nella cartella tomeeed effettuare la build dell'immagine (Es: "docker build  -t tomcat-img ."), nell'eventualità che il firewall dia problemi durante la build dell'immagine sostituire la porzione di codice: 
+2.Posizionarsi nella cartella tomeeed effettuare la build dell'immagine (Es: "docker build  -t tomcat-img ."), nell'eventualità che il firewall dia problemi durante la build dell'immagine sostituire la porzione di codice (do-done): 
 
 do \
   gpg --keyserver ha.pool.sks-keyservers.net --recv-keys "$key"; \
